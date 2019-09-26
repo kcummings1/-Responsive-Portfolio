@@ -78,7 +78,6 @@ h3 {
   text-decoration: none;
   background: black;
   border: 5px solid darkolivegreen;
-  
 }
 
 nav {
@@ -114,7 +113,8 @@ footer {
   height: 50px;
 }
 
-h3, h2 {
+h3,
+h2 {
   padding-bottom: 20px;
   margin-bottom: 15px;
   line-height: 22px;
@@ -167,7 +167,7 @@ h3, h2 {
   font-weight: 700;
   line-height: 30px;
   color: darkolivegreen;
-  background-color:cornsilk;
+  background-color: cornsilk;
   text-align: center;
   background: darkslategrey;
   border-bottom: 10;
@@ -192,15 +192,15 @@ h3, h2 {
 }
 
 label,
-input[type=text],
-input[type=email],
+input[type="text"],
+input[type="email"],
 textarea {
   display: block;
   width: 100%;
 }
 
-input[type=text],
-input[type=email],
+input[type="text"],
+input[type="email"],
 textarea {
   height: 35px;
   padding: 0 10px;
@@ -212,7 +212,7 @@ textarea {
   height: 200px;
 }
 
-input[type=submit] {
+input[type="submit"] {
   padding: 10px 30px;
   font-size: 18px;
   color: #ffffff;
@@ -223,43 +223,42 @@ input[type=submit] {
 
 /* I think this is where MQ goes*/
 
-
-@media screen and (max-width: 980px){
+@media screen and (max-width: 980px) {
   .main-section {
-     width: 100%;
-     margin-left: 20px;
+    width: 100%;
+    margin-left: 20px;
   }
 
   #logo {
-    margin-left:20px;
+    margin-left: 20px;
   }
 
   nav {
-    margin-right:20px;
+    margin-right: 20px;
   }
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 768px) {
   .main-section {
     max-width: 768px;
     width: 100%;
-    margin-right:20px
+    margin-right: 20px;
   }
 }
 
-@media screen and (max-width: 640px){
+@media screen and (max-width: 640px) {
   #masthead {
-    position:static;
+    position: static;
   }
-  
+
   #logo {
-    width:100%;
-    margin-left:0;
+    width: 100%;
+    margin-left: 0;
   }
 
   nav {
-    clear:both;
-    float:none;
+    clear: both;
+    float: none;
     padding: 15px;
     text-align: center;
   }
@@ -276,6 +275,6 @@ input[type=submit] {
 .work {
   max-width: 100%;
   margin-right: 0;
-  padding-top:inherit;
-  padding-bottom:inherit;
+  padding-top: inherit;
+  padding-bottom: inherit;
 }
