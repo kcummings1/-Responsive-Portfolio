@@ -164,12 +164,13 @@ h3, h2 {
   width: 100%;
   padding: 15px;
   margin-bottom: 0;
-  font-weight: 300;
+  font-weight: 700;
   line-height: 30px;
-  color: #ffffff;
+  color: darkolivegreen;
+  background-color:cornsilk;
   text-align: center;
-  background: black;
-  border-bottom: 0;
+  background: darkslategrey;
+  border-bottom: 10;
 }
 
 .auth-image {
@@ -275,4 +276,6 @@ input[type=submit] {
 .work {
   max-width: 100%;
   margin-right: 0;
+  padding-top:inherit;
+  padding-bottom:inherit;
 }
