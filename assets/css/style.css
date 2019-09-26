@@ -146,6 +146,7 @@ h2 {
   width: 274px;
   margin: 20px 0 25px;
   overflow: auto;
+  border: 5px solid darkolivegreen;
 }
 
 .work:nth-child(even) {
@@ -170,7 +171,7 @@ h2 {
   background-color: cornsilk;
   text-align: center;
   background: darkslategrey;
-  border-bottom: 10;
+  
 }
 
 .auth-image {
