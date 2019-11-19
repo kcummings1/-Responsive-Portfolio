@@ -220,7 +220,7 @@ input[type="submit"] {
   color: #ffffff;
   cursor: pointer;
   background: black;
-  border: 0 none;
+  border: 1px solid;
 }
 
 /* I think this is where MQ goes*/
