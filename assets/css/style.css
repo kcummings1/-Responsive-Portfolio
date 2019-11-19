@@ -55,7 +55,7 @@ h3 {
 /* header */
 
 #masthead {
-  position: fixed;
+  position: absolute;
   z-index: 99;
   width: 100%;
   margin: 0 0 30px;
@@ -63,6 +63,7 @@ h3 {
   color: #ffffff;
   background: black;
   border-bottom: 2px solid black;
+  border: 5px solid darkgrey;
 }
 
 #logo {
@@ -160,14 +161,14 @@ h2 {
 }
 
 .work h3 {
-  position: absolute;
+  position: relative;
   bottom: 20px;
   width: 100%;
   padding: 15px;
   margin-bottom: 0;
   font-weight: 700;
   line-height: 30px;
-  color: darkolivegreen;
+  color: black;
   background-color: cornsilk;
   text-align: center;
   background: darkslategrey;
