@@ -3,9 +3,9 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: darkolivegreen;
-  background: url("https://images-na.ssl-images-amazon.com/images/I/81nOnK9hSuL._SX425_.jpg");
+  background: url("http://ava7.com/w/3d/3d-hexagons/3d-hexagon-texture-fabric-steel-gray-grid-honeycomb.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; 
 }
 
 * {
