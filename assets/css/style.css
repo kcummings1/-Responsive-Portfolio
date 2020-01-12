@@ -112,7 +112,7 @@ footer {
   background: greenyellow;
   border-top: 8px solid black;
   border-bottom: 8px solid black;
-  height: 50px;
+  height: auto;
   border-bottom: 10px;
 }
 
