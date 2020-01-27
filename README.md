@@ -5,6 +5,7 @@ This is my portfolio, it shows my projects and assignments I have worked on thro
 -------------------------------------------------------------------------------
 
 Again, many thanks for taking the time and consideration to look at my github. 
+
 * kobicummings@gmail.com
 * https://www.linkedin.com/in/kobi-cummings/
 
